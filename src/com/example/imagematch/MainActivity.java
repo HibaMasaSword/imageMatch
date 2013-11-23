@@ -16,6 +16,7 @@ import android.widget.ImageView;
 
 public class MainActivity extends Activity {
 
+	// statics
 	private static ImageView	view1;
 	private static ImageView	view2;
 
